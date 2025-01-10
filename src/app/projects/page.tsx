@@ -17,6 +17,13 @@ export default function Projects() {
       image: "/images/xai-project.webp",
       github: "https://github.com/aeyeniay/MasterThesisXAI",
       tags: ["XAI", "Machine Learning", "Python", "Data Analysis"]
+    },
+    {
+      title: "Personal Portfolio Website",
+      description: "A modern personal portfolio website developed with cutting-edge web technologies. Features a robust frontend powered by Next.js 14 and TypeScript, styled with Tailwind CSS for responsive design, and integrated with Prisma ORM for database management. Includes visitor analytics, page view statistics, and an interactive resume viewing experience.",
+      image: "/images/portfolio-proje.webp",
+      github: "https://github.com/aeyeniay/Portfolio_Website",
+      tags: ["Next.js", "TypeScript", "Tailwind CSS", "Prisma"]
     }
   ]
 
