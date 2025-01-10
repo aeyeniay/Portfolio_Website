@@ -28,9 +28,9 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-16">
           <Link 
             href="/"
-            className="text-xl font-bold text-primary"
+            className="text-blue-600 font-bold text-xl"
           >
-            Ahmet Erdem Yeniay
+            Ahmet Erdem YENIAY
           </Link>
 
           <div className="flex space-x-8">
