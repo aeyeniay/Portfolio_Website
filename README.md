@@ -138,4 +138,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Ahmet Erdem Yeniay - [aeyeniay@gmail.com](mailto:your@email.com)
 
-Project Link: [https://github.com/aeyeniay/Portfolio_Website](https://github.com/yourusername/portfolio-website)
+Project Link: [https://github.com/aeyeniay/Portfolio_Website](https://github.com/aeyeniay/Portfolio_Website)
