@@ -27,7 +27,6 @@ A modern portfolio website built with Next.js 14, featuring real-time analytics,
 ## 📸 Screenshots
 
 <details>
-<summary>View Screenshots</summary>
 
 ### Home Page
 ![Home Page](/public/images/screenshots/home.png)
