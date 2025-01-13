@@ -26,7 +26,6 @@ A modern portfolio website built with Next.js 14, featuring real-time analytics,
 
 ## 📸 Screenshots
 
-<details>
 
 ### Home Page
 ![Home Page](/public/images/screenshots/home.png)
@@ -40,7 +39,6 @@ A modern portfolio website built with Next.js 14, featuring real-time analytics,
 ### Analytics Page
 ![Analytics](/public/images/screenshots/analytics.png)
 
-</details>
 
 ## 🚀 Getting Started
 

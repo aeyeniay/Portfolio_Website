@@ -8,7 +8,6 @@ export default function Navbar() {
 
   const navItems = [
     { name: 'Home', path: '/', id: 'home' },
-    { name: 'About', path: '/about', id: 'about' },
     { name: 'Projects', path: '/projects', id: 'projects' },
     { name: 'Statistics', path: '/statistics', id: 'statistics' }
   ]
