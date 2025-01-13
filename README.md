@@ -45,7 +45,7 @@ A modern portfolio website built with Next.js 14, featuring real-time analytics,
 1. **Clone the repository**
 
 ```bash 
-git clone https://github.com/yourusername/portfolio-website.git
+git clone https://github.com/aeyeniay/portfolio-website.git
 ```
 
 
@@ -138,4 +138,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Ahmet Erdem Yeniay - [aeyeniay@gmail.com](mailto:your@email.com)
 
-Project Link: [https://github.com/yourusername/portfolio-website](https://github.com/yourusername/portfolio-website)
+Project Link: [https://github.com/aeyeniay/portfolio-website](https://github.com/yourusername/portfolio-website)
