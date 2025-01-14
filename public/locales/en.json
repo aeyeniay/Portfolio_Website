@@ -1,0 +1,159 @@
+{
+    "home": {
+      "header": {
+        "name": "Ahmet Erdem YENIAY",
+        "menu": {
+          "home": "Home",
+          "projects": "Projects",
+          "statistics": "Statistics",
+          "resume": "Resume",
+          "contact": "Contact"
+        }
+      },
+      "about": {
+        "title": "About Me",
+        "role": "Data Engineer & Analyst",
+        "description": "After completing my bachelor's degree in Industrial Engineering, I worked as an IT and Reporting Engineer and a Production Planning Engineer. Over time, I realized that working with data and creating analytical solutions always excited me, which led me to shift my focus to this field.\n\nTo pursue this passion, I attended a six-month language program at the University of Arkansas in the USA, followed by earning a master's degree in Data Engineering at Jacobs (Constructor) University in Bremen, Germany.\n\nCurrently, I work as a Data Engineer in the Artificial Intelligence Unit of the Ministry of Environment, Urbanization, and Climate Change in Turkey, where I enjoy leveraging the power of data to develop meaningful solutions.",
+        "skills": [
+          "Data Engineering",
+          "Data Analysis",
+          "Industrial Engineering",
+          "IT & Reporting",
+          "AI Solutions"
+        ]
+      },
+      "stats": {
+        "years_experience": "4+",
+        "countries_studied": "3",
+        "roles": "3",
+        "degree": "MSc",
+        "field": "Data Engineering",
+        "last_updated": "Last Updated:"
+      }
+    },
+    "experience": [
+      {
+        "title": "Data Engineer",
+        "organization": "T.C. Ministry of Environment, Urbanization and Climate Change",
+        "period": "May 2024 - Present",
+        "location": "Turkey",
+        "tasks": [
+          "Data Collection and Management",
+          "Data Analysis and AI Model Development",
+          "Data Visualization and Reporting",
+          "API Development and Integration"
+        ]
+      },
+      {
+        "title": "Working Student in Engine Trend Monitoring",
+        "organization": "MTU Maintenance",
+        "period": "Apr 2023 - Dec 2023",
+        "location": "Hannover, Lower Saxony, Germany · Hybrid",
+        "tasks": [
+          "Maintain and configure MTU's engine trend-monitoring software",
+          "Using APIs to aggregate data from ETM web-based application",
+          "Improving the generation of engine-specific alarms",
+          "Further development of data analysis and processing",
+          "Performing special analyses in Excel or Python",
+          "Supporting research work in aircraft operating documents on engine parameter monitoring"
+        ]
+      },
+      {
+        "title": "IT and Reporting Engineer",
+        "organization": "Palandoken Investment Company",
+        "period": "Aug 2017 - Mar 2019",
+        "location": "Erzurum, Turkey · On-site",
+        "tasks": [
+          "Creating weekly and monthly manufacturing reports",
+          "Cost Analysis",
+          "Capacity Reports",
+          "Lean Manufacturing Activities"
+        ]
+      },
+      {
+        "title": "Production Planning Engineer",
+        "organization": "Günko Industrial Systems",
+        "period": "Oct 2016 - Jul 2017",
+        "location": "Istanbul, Turkey · On-site",
+        "tasks": [
+          "Following raw materials and semi-finished products",
+          "Coordinating production workflow",
+          "Determining manpower and equipment"
+        ]
+      },
+      {
+        "title": "Data Entry Specialist",
+        "organization": "Boğaziçi Project Engineering",
+        "period": "Aug 2012 - Dec 2012",
+        "location": "Erzurum, Turkey · Hybrid",
+        "tasks": [
+          "Collecting and processing data in the transportation planning and engineering sector",
+          "Face-to-face interviews"
+        ]
+      },
+      {
+        "title": "Intern",
+        "organization": "Hidromek",
+        "period": "Jul 2012 - Aug 2012",
+        "location": "Ankara, Turkey",
+        "tasks": []
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master of Science",
+        "field": "Data Engineering",
+        "organization": "Constructor University",
+        "period": "Aug 2021 - Jan 2024",
+        "location": "Bremen, Germany"
+      },
+      {
+        "degree": "Intensive English Program",
+        "field": "Language",
+        "organization": "University of Arkansas",
+        "period": "Jan 2020 - Aug 2020",
+        "location": "Arkansas, United States"
+      },
+      {
+        "degree": "Bachelor's degree",
+        "field": "Industrial Engineering",
+        "organization": "Atatürk Üniversitesi",
+        "period": "Sep 2010 - Feb 2015",
+        "location": "Erzurum, Turkey"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Advancing ESG Assessments with NLP-Driven Insights",
+        "description": "This project leverages advanced NLP techniques to revolutionize the ESG assessment process by extracting and categorizing text data from PDF documents. Key phrases and keywords are identified using the BERT algorithm and mapped to predefined ESG ontology classes, ensuring structured and accurate classification. Various similarity measures enhance the precision of this mapping process. This streamlined approach reduces manual effort, accelerates assessments, and empowers stakeholders with actionable insights for informed decision-making.",
+        "tags": ["NLP", "BERT", "ESG", "Python", "Machine Learning"]
+      },
+      {
+        "title": "XAI-Driven Carbon Emission Estimation",
+        "description": "This project focuses on estimating carbon emissions based on vehicle characteristics, utilizing the Fuel Consumption Ratings datasets provided by Natural Resources Canada. By applying classical machine learning models alongside explainable artificial intelligence (XAI) techniques, the study aims to identify the key vehicle features that influence emissions and deliver actionable insights for decision-makers.",
+        "tags": ["XAI", "Machine Learning", "Python", "Data Analysis"]
+      },
+      {
+        "title": "Personal Portfolio Website",
+        "description": "A modern personal portfolio website developed with cutting-edge web technologies. Features a robust frontend powered by Next.js 14 and TypeScript, styled with Tailwind CSS for responsive design, and integrated with Prisma ORM for database management. Includes visitor analytics, page view statistics, and an interactive resume viewing experience.",
+        "tags": ["Next.js", "TypeScript", "Tailwind CSS", "Prisma"]
+      }
+    ],
+    "statistics": {
+      "title": "Website Statistics",
+      "tabs": {
+        "visitor_map": "Visitor Map",
+        "hourly_stats": "Hourly Stats"
+      },
+      "visitor_map": {
+        "title": "Visitor Distribution by Country",
+        "description": "(Hover over countries to see visit counts)"
+      },
+      "hourly_stats": {
+        "title": "Hourly Visit Distribution",
+        "description": "(Visit counts by hour of day)"
+      },
+      "last_updated": "Last Updated:"
+    }
+  }
+  

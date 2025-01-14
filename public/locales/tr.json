@@ -1,0 +1,159 @@
+{
+    "home": {
+      "header": {
+        "name": "Ahmet Erdem YENİAY",
+        "menu": {
+          "home": "Ana Sayfa",
+          "projects": "Projeler",
+          "statistics": "İstatistikler",
+          "resume": "Özgeçmiş",
+          "contact": "İletişim"
+        }
+      },
+      "about": {
+        "title": "Hakkımda",
+        "role": "Veri Mühendisi & Analisti",
+        "description": "Endüstri mühendisliği lisansımı tamamladıktan sonra IT ve Raporlama Mühendisi ve Üretim Planlama Mühendisi olarak çalıştım. Zamanla, veri ile çalışmanın ve analitik çözümler oluşturmanın beni her zaman heyecanlandırdığını fark ettim ve bu alana yöneldim.\n\nBu tutkuyu sürdürmek için ABD'deki Arkansas Üniversitesi'nde altı aylık bir dil programına katıldım ve ardından Almanya'nın Bremen kentindeki Constructor Üniversitesi'nde Veri Mühendisliği yüksek lisansı yaptım.\n\nŞu anda, Türkiye'de Çevre, Şehircilik ve İklim Değişikliği Bakanlığı'nın Yapay Zeka Biriminde Veri Mühendisi olarak çalışıyorum. Verinin gücünü anlamlı çözümler geliştirmek için kullanmaktan keyif alıyorum.",
+        "skills": [
+          "Veri Mühendisliği",
+          "Veri Analizi",
+          "Endüstri Mühendisliği",
+          "IT & Raporlama",
+          "Yapay Zeka Çözümleri"
+        ]
+      },
+      "stats": {
+        "years_experience": "4+",
+        "countries_studied": "3",
+        "roles": "3",
+        "degree": "Yüksek Lisans",
+        "field": "Veri Mühendisliği",
+        "last_updated": "Son Güncelleme:"
+      }
+    },
+    "experience": [
+      {
+        "title": "Veri Mühendisi",
+        "organization": "T.C. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
+        "period": "Mayıs 2024 - Devam Ediyor",
+        "location": "Türkiye",
+        "tasks": [
+          "Veri Toplama ve Yönetimi",
+          "Veri Analizi ve Yapay Zeka Model Geliştirme",
+          "Veri Görselleştirme ve Raporlama",
+          "API Geliştirme ve Entegrasyonu"
+        ]
+      },
+      {
+        "title": "Motor Trend Takip Sisteminde Çalışan Öğrenci",
+        "organization": "MTU Maintenance",
+        "period": "Nisan 2023 - Aralık 2023",
+        "location": "Hannover, Aşağı Saksonya, Almanya · Hibrit",
+        "tasks": [
+          "MTU'nun motor trend takip yazılımını koruma ve yapılandırma",
+          "ETM web tabanlı uygulamasından veri toplamak için API'ler kullanma",
+          "Motor özel alarmlarının üretimini iyileştirme",
+          "Veri analizi ve işleme süreçlerini geliştirme",
+          "Excel veya Python ile özel analizler gerçekleştirme",
+          "Motor parametre izleme üzerine uçak operasyon belgelerinde araştırma çalışmaları destekleme"
+        ]
+      },
+      {
+        "title": "IT ve Raporlama Mühendisi",
+        "organization": "Palandöken Yatırım Şirketi",
+        "period": "Ağustos 2017 - Mart 2019",
+        "location": "Erzurum, Türkiye · Yerinde",
+        "tasks": [
+          "Haftalık ve aylık üretim raporları oluşturma",
+          "Maliyet Analizi",
+          "Kapasite Raporları",
+          "Yalın Üretim Faaliyetleri"
+        ]
+      },
+      {
+        "title": "Üretim Planlama Mühendisi",
+        "organization": "Günko Endüstriyel Sistemler",
+        "period": "Ekim 2016 - Temmuz 2017",
+        "location": "İstanbul, Türkiye · Yerinde",
+        "tasks": [
+          "Hammadde ve yarı mamulleri takip etme",
+          "Üretim iş akışını koordine etme",
+          "İş gücü ve ekipman belirleme"
+        ]
+      },
+      {
+        "title": "Veri Girişi Uzmanı",
+        "organization": "Boğaziçi Proje Mühendisliği",
+        "period": "Ağustos 2012 - Aralık 2012",
+        "location": "Erzurum, Türkiye · Hibrit",
+        "tasks": [
+          "Ulaştırma planlama ve mühendislik sektöründe veri toplama ve işleme",
+          "Yüz yüze anket yapma"
+        ]
+      },
+      {
+        "title": "Stajyer",
+        "organization": "Hidromek",
+        "period": "Temmuz 2012 - Ağustos 2012",
+        "location": "Ankara, Türkiye",
+        "tasks": []
+      }
+    ],
+    "education": [
+      {
+        "degree": "Yüksek Lisans",
+        "field": "Veri Mühendisliği",
+        "organization": "Constructor Üniversitesi",
+        "period": "Ağustos 2021 - Ocak 2024",
+        "location": "Bremen, Almanya"
+      },
+      {
+        "degree": "Yoğun İngilizce Programı",
+        "field": "Dil Eğitimi",
+        "organization": "Arkansas Üniversitesi",
+        "period": "Ocak 2020 - Ağustos 2020",
+        "location": "Arkansas, Amerika Birleşik Devletleri"
+      },
+      {
+        "degree": "Lisans",
+        "field": "Endüstri Mühendisliği",
+        "organization": "Atatürk Üniversitesi",
+        "period": "Eylül 2010 - Şubat 2015",
+        "location": "Erzurum, Türkiye"
+      }
+    ],
+    "projects": [
+      {
+        "title": "NLP Tabanlı İçgörülerle ESG Değerlendirmelerini Geliştirme",
+        "description": "Bu proje, gelişmiş NLP tekniklerini kullanarak ESG değerlendirme sürecini dönüştürmeyi hedeflemektedir. PDF belgelerinden metin verileri çıkarılarak BERT algoritmasıyla anahtar ifadeler ve kelimeler belirlenmekte ve bunlar, tanımlı ESG ontoloji sınıflarına eşleştirilerek yapılandırılmış ve doğru bir sınıflandırma sağlanmaktadır.",
+        "tags": ["NLP", "BERT", "ESG", "Python", "Makine Öğrenimi"]
+      },
+      {
+        "title": "XAI Tabanlı Karbon Emisyon Tahmini",
+        "description": "Bu proje, Kanada Doğal Kaynaklar kurumu tarafından sağlanan Yakıt Tüketim Dereceleri veri setlerini kullanarak araç özelliklerine dayalı karbon emisyonlarını tahmin etmeye odaklanmaktadır.",
+        "tags": ["XAI", "Makine Öğrenimi", "Python", "Veri Analizi"]
+      },
+      {
+        "title": "Kişisel Portföy Web Sitesi",
+        "description": "Next.js 14 ve TypeScript tarafından desteklenen modern bir kişisel portföy web sitesi.",
+        "tags": ["Next.js", "TypeScript", "Tailwind CSS", "Prisma"]
+      }
+    ],
+    "statistics": {
+      "title": "Web Sitesi İstatistikleri",
+      "tabs": {
+        "visitor_map": "Ziyaretçi Haritası",
+        "hourly_stats": "Saatlik İstatistikler"
+      },
+      "visitor_map": {
+        "title": "Ülkelere Göre Ziyaretçi Dağılımı",
+        "description": "(Ziyaret sayılarını görmek için ülkelerin üzerine gelin)"
+      },
+      "hourly_stats": {
+        "title": "Saatlik Ziyaret Dağılımı",
+        "description": "(Saatlik ziyaret sayıları)"
+      },
+      "last_updated": "Son Güncelleme:"
+    }
+  }
+  
